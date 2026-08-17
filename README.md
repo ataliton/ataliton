@@ -1,57 +1,104 @@
 <div align="center">
-  <img src="https://filestore.community.support.microsoft.com/api/images/68a91f49-db1e-40e1-9c4d-47813d383f12" width="450" height="300" />
-</div>
-<h1 align="center">Olá 👋, Sou Atáliton Neto!</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=1tassianak&label=Profile%20views&color=b60e55&style=flat" alt="1tassianak" /> </p>
+  <h1>👋 Olá, eu sou Atáliton Neto!</h1>
 
+  <p>
+    💻 Desenvolvedor Full-Stack &nbsp; | &nbsp; 🎓 Estudante de ADS
+  </p>
+</div>
+
+<p align="left">
+  <img
+    src="https://komarev.com/ghpvc/?username=ataliton&label=Profile%20views&color=b60e55&style=flat"
+    alt="ataliton"
+  />
+</p>
+
+---
+
+## 👨‍💻 Sobre mim
 
 - 🔭 Sou Desenvolvedor Full-Stack
-- 🌱 Estudante de ADS**
+- 🌱 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
+- 💻 Interessado em desenvolvimento de aplicações web e APIs
+- 🐧 Usuário de Linux
 
+---
 
-<div>
-<a href="[https://github.com/pedrosantos2](https://github.com/ataliton)">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=ataliton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="ataliton"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataliton&layout=compact&theme=dracula" alt="ataliton"/>
+## 📊 GitHub Stats
+
+<div align="center">
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api?username=ataliton&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"
+    alt="Estatísticas do GitHub de Atáliton"
+  />
+
+  <img
+    height="180em"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=ataliton&layout=compact&theme=dracula"
+    alt="Linguagens mais utilizadas por Atáliton"
+  />
+
 </div>
 
+---
+
+## 🛠️ Languages and Tools
+
+### 💻 Linguagens
+
+| JavaScript | Java | Kotlin |
+|:---:|:---:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="60" height="60"/> |
+
+### 🚀 Frameworks e Bibliotecas
+
+| Angular | Bootstrap | Tailwind CSS | Axios |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="65" height="65"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind CSS" alt="Tailwind CSS" width="70" height="70"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="70" height="70"/> |
+
+### 🗄️ Bancos de Dados
+
+| MySQL | MongoDB | PostgreSQL | Oracle |
+|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="PostgreSQL" alt="PostgreSQL" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="60" height="60"/> |
+
+### 🔧 Ferramentas
+
+| Git | Postman | Insomnia | Composer | Trello |
+|:---:|:---:|:---:|:---:|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original-wordmark.svg" title="Insomnia" alt="Insomnia" width="55" height="55"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="60" height="60"/> |
+
+### 🐧 Sistema Operacional
+
+| Linux |
+|:---:|
+| <img src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg" title="Linux" alt="Linux" width="60" height="60"/> |
+
+---
+
+## 🐍 GitHub Contribution
+
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg"
+  >
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+  >
+  <img
+    alt="GitHub Contribution Snake"
+    src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg"
+  >
 </picture>
-	
-<hr>
-Languages and Tools 
-<hr>
-<div>
 
-### Languages:
-| Js | Java | Kotlin
-|----------|----------|----------|
-|  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" title="Java" alt="Java" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/kotlin/kotlin-original.svg" title="Kotlin" alt="Kotlin" width="60" height="60"/>|
+---
 
-### Best frameworks and main libraries:
+<div align="center">
 
-| Angular | Bootstrap | Tailwind | Axios
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" title="Angular" alt="Angular" width="65" height="65"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-original.svg" title="Bootstrap" alt="Bootstrap" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original.svg" title="Tailwind" alt="Tailwind" width="70" height="70"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/axios/axios-plain.svg" title="Axios" alt="Axios" width="70" height="70"/>|
+### 🚀 Sempre aprendendo, desenvolvendo e evoluindo.
 
-### Database:
-
-| MySql | MongoDb | PostGreSQL | Oracle |
-|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original.svg" title="mySql" alt="mySql" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original.svg" title="mongoDb" alt="mongoDb" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original.svg" title="mongoDb" alt="mongoDb" width="60" height="60"/> | <img src="https://github.com/devicons/devicon/blob/master/icons/oracle/oracle-original.svg" title="Oracle" alt="Oracle" width="60" height="60"/> |
-
-
-### Environments, Testing, Other:
-
-| Git | Postman | Insomnia | Composer | Trello | 
-|----------|----------|----------|----------|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" title="Git" alt="Git" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/postman/postman-original.svg" title="Postman" alt="Postman" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/insomnia/insomnia-original-wordmark.svg" title="Insomnia" alt="Insomnia" width="55" height="55"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/composer/composer-original.svg" title="Composer" alt="Composer" width="60" height="60"/>| <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-original.svg" title="Trello" alt="Trello" width="60" height="60"/>| 
-
-### OS:
-
-Ubuntu
-|----------|
-| <img src="https://github.com/devicons/devicon/blob/master/icons/ubuntu/ubuntu-original.svg" title="Ubuntu" alt="Ubuntu" width="60" height="60"/>
+</div>
