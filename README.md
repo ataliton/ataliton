@@ -2,7 +2,8 @@
   <h1>👋 Olá, eu sou Atáliton Neto!</h1>
 
   <p>
-    💻 Desenvolvedor Full-Stack &nbsp; | &nbsp; 🎓 Formado em ADS
+    💻 Desenvolvedor Full-Stack Pleno &nbsp; | &nbsp; 🎓 Tecnólogo em Análise e Desenvolvimento de Sistemas
+  </p>
 </div>
 
 <p align="left">
@@ -16,10 +17,16 @@
 
 ## 👨‍💻 Sobre mim
 
-- 🔭 Sou Desenvolvedor Full-Stack
-- 🌱 Estudante de Análise e Desenvolvimento de Sistemas (ADS)
-- 💻 Interessado em desenvolvimento de aplicações web e APIs
+Sou **Desenvolvedor Full-Stack Pleno**, formado em **Análise e Desenvolvimento de Sistemas (ADS)**, com experiência profissional desde **abril de 2024**.
+
+Atuo no desenvolvimento de aplicações, APIs e soluções para diferentes necessidades de negócio, buscando escrever código limpo, organizado e de fácil manutenção.
+
+- 💼 Desenvolvedor Full-Stack Pleno
+- 📅 Experiência profissional desde abril de 2024
+- 🎓 Formado em Análise e Desenvolvimento de Sistemas
+- 💻 Desenvolvimento Full-Stack
 - 🐧 Usuário de Linux
+- 🚀 Sempre buscando evoluir tecnicamente e aprender novas tecnologias
 
 ---
 
@@ -98,6 +105,6 @@
 
 <div align="center">
 
-### 🚀 Sempre aprendendo, desenvolvendo e evoluindo.
+### 🚀 Desenvolvendo soluções, aprendendo continuamente e evoluindo todos os dias.
 
 </div>
