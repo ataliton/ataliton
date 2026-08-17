@@ -2,8 +2,7 @@
   <h1>👋 Olá, eu sou Atáliton Neto!</h1>
 
   <p>
-    💻 Desenvolvedor Full-Stack &nbsp; | &nbsp; 🎓 Estudante de ADS
-  </p>
+    💻 Desenvolvedor Full-Stack &nbsp; | &nbsp; 🎓 Formado em ADS
 </div>
 
 <p align="left">
